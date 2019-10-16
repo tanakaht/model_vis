@@ -1,0 +1,6 @@
+html/boston_muldim.html filter=lfs diff=lfs merge=lfs -text
+html/dcae_img.html filter=lfs diff=lfs merge=lfs -text
+html/dcae_mat.html filter=lfs diff=lfs merge=lfs -text
+html/iris_mat.html filter=lfs diff=lfs merge=lfs -text
+html/iris_muldim.html filter=lfs diff=lfs merge=lfs -text
+html/mnist_ae.html filter=lfs diff=lfs merge=lfs -text
